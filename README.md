@@ -54,7 +54,7 @@ Menyatukan pengelolaan pekerjaan Tim Media dalam satu sistem agar lebih terorgan
 ## 🔐 Akun Login 
 
 **Admin**
-- Email: `admin@media
+- Email: admin@media
 - Password: `admin123`
 
 **Anggota**
