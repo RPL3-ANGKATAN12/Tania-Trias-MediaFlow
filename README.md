@@ -1,5 +1,5 @@
 # MediaFlow — Sistem Manajemen Tim Media
-Aplikasi berbasis web yang dikembangkan sebagai wadah pengelolaan kegiatan Tim Media PT PipoSmart. Dibuat untuk mengatasi pengelolaan data anggota, konten, aktivitas harian, dan arsip video yang sebelumnya masih tersebar di berbagai tempat.
+Aplikasi berbasis web yang dikembangkan sebagai wadah pengelolaan kegiatan Tim Media PT Piposmart. Dibuat untuk mengatasi pengelolaan data anggota, konten, aktivitas harian, dan arsip video yang sebelumnya masih tersebar di berbagai tempat.
 
 ## Tujuan
 Menyatukan pengelolaan pekerjaan Tim Media dalam satu sistem agar lebih terorganisir dan mudah dipantau.
